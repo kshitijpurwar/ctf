@@ -13,5 +13,6 @@ I also done an exploit write up of [Vulnserver](https://github.com/jthorpe6/ctf/
 - [Billy Madison:1.1](https://github.com/jthorpe6/ctf/blob/master/Billy%20Madison:1.1.md)
 - [Graceful_VulnVM](https://github.com/jthorpe6/ctf/blob/master/Graceful_VulnVM.md)
 - [64Base](https://github.com/jthorpe6/ctf/blob/master/64Base:_1.0.1.md)
+- [XORcist crackme](XORcist.md)
 
-Most recent write up is [XORcist crackme](XORcist.md)
+Most recent write up is [ctf.slothparadise.com](ctf.slothparadise.com/Builds.Hack.Me.md)
