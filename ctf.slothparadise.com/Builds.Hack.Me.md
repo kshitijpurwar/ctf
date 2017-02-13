@@ -76,7 +76,7 @@ After waiting i receive the next key
  <p>Solved <?php=$solved?> 
 ```
 
-# Key 5
+## Key 5
 
 At the index page there is a commeted out link to `hidden.php`
 
@@ -108,7 +108,7 @@ The `xml` page has the next key
 <super_secret_flag>KEY{AllXMLIsGarbageXML}</super_secret_flag>
 ```
 
-# Key 6
+## Key 6
 
 Back at the hidden page there is a message that i am not an admin. 
 
@@ -135,3 +135,10 @@ Running this script i get the last key
 </body>
 ```
 
+## Reflective XSS
+
+At <http://ctf.slothparadise.com/walled_garden.php> it looks to be vulnerable to reflective XSS attacks 
+
+This link shows the attack <http://ctf.slothparadise.com/walled_garden.php?name=%3C%2Fscript%3E%22%3E%3Cscript%3Ealert%281%29%3C%2Fscript%3E>
+
+![](xss.png)
